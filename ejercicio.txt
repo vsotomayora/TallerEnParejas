@@ -1,3 +1,4 @@
 Hola, este es un texto de prueba
 Esto generara conflictos
 Mis cambios by Rodrigo :)
+Voy a escribir aquí suponiendo que no sé que ya se ha hecho un cambio al archivo original
