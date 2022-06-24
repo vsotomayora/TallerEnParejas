@@ -1,5 +1,3 @@
 Hola, este es un texto de prueba
 Esto generara conflictos
 Mis cambios by Rodrigo :)
-nuevo cambio
-Otro nuevo cambio
