@@ -1,3 +1,7 @@
 Hola, este es un texto de prueba
+<<<<<<< HEAD
 
 Mis cambios by Rodrigo (:
+=======
+Esto generara conflictos
+>>>>>>> 06a8b76bdd49e31fa4caf951dad11bf85e9f08ec
